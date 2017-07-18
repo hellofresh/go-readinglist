@@ -3,6 +3,7 @@
 Welcome to our golang reading list. If you are new to golang we recomend going through our getting started links.
 
 ## Getting Started
+- https://www.golang-book.com/books/intro
 - https://tour.golang.org/welcome/1
 - https://golang.org/doc/
 - https://golang.org/doc/effective_go.html
@@ -12,6 +13,7 @@ Welcome to our golang reading list. If you are new to golang we recomend going t
 
 ## Advanced Topics
 - http://peter.bourgon.org/go-best-practices-2016/
+- https://divan.github.io/posts/avoid_gotchas/
 - https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 
 ## Books
