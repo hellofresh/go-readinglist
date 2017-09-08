@@ -4,6 +4,10 @@ This page contains packages recommended by HelloFresh Golang Clan. These are not
 
 If you need more packages or just for inspiration, visit [Awesome Go](https://awesome-go.com/).
 
+## CLI
+
+- [github.com/spf13/cobra](https://github.com/spf13/cobra) - solution for CLI interface implementation
+
 ## Configuration
 
 - [github.com/kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - get configs from environment variables
