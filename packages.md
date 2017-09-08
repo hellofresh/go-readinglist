@@ -7,6 +7,7 @@ If you need more packages or just for inspiration, visit [Awesome Go](https://aw
 ## Configuration
 
 - [github.com/kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - get configs from environment variables
+- [github.com/spf13/viper](https://github.com/spf13/viper) - configuration solution
 
 ## Database
 
@@ -14,9 +15,9 @@ If you need more packages or just for inspiration, visit [Awesome Go](https://aw
 - [github.com/jmoiron/sqlx](https://github.com/jmoiron/sqlx) - extension to standard SQL library that makes it a bit more convenient
 - [github.com/mattes/migrate](https://github.com/mattes/migrate) - database migrations
 
-## Forms
+## Encoding
 
-- [github.com/gorilla/schema](https://github.com/gorilla/schema) - decode forms and urls into Go structs and vice versa
+- [github.com/gorilla/schema](https://github.com/gorilla/schema) - decode forms and URL query string into Go structs and vice versa
 
 ## HTTP
 
@@ -32,6 +33,8 @@ If you need more packages or just for inspiration, visit [Awesome Go](https://aw
 - [github.com/sirupsen/logrus](https://github.com/sirupsen/logrus) - logging package
 - [github.com/hellofresh/logging-go](https://github.com/hellofresh/logging-go) - HelloFresh extensions to Logrus
 - [github.com/hellofresh/stats-go](https://github.com/hellofresh/stats-go) - collect and push metrics
+- [github.com/opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - tracing library (e.g. for tracing requests, etc.)
+  - [github.com/hellofresh/gcloud-opentracing](https://github.com/hellofresh/gcloud-opentracing) - GCloud StackDriver tracer for OpenTracing-Go
 
 ## Testing
 
