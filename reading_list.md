@@ -3,6 +3,7 @@
 Welcome to our golang reading list. If you are new to golang we recomend going through our getting started links.
 
 ## Getting Started
+- https://golangbot.com/learn-golang-series/, great concise and complete serie about the language
 - https://www.golang-book.com/books/intro
 - https://tour.golang.org/welcome/1
 - https://golang.org/doc/
