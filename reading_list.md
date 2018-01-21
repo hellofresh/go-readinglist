@@ -30,6 +30,8 @@ Welcome to our golang reading list. If you are new to golang we recomend going t
 - https://www.udemy.com/go-programming-language/ Web Development with Go by Todd McLeod (Paid)
 - https://www.youtube.com/user/toddmcleod
 - https://www.safaribooksonline.com/library/view/introducing-go/9781491941997/ Introducing Go
+- https://www.safaribooksonline.com/library/view/oscon-2016-/9781491958476/video284945.html (Building Amazing cross-platform command-lines apps in Go Part 1 by Steve Francia and Ashley McNamara)
+- https://www.safaribooksonline.com/library/view/oscon-2016-/9781491958476/video284946.html (Building Amazing cross-platform command-lines apps in Go Part 2 by Steve Francia and Ashley McNamara)
 
 ## Blogs
 - https://www.goinggo.net/ (Bill Kennedy)
