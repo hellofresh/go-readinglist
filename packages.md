@@ -35,8 +35,7 @@ If you need more packages or just for inspiration, visit [Awesome Go](https://aw
 ## Logging and Metrics
 
 - [github.com/sirupsen/logrus](https://github.com/sirupsen/logrus) - logging package
-- [github.com/hellofresh/logging-go](https://github.com/hellofresh/logging-go) - HelloFresh extensions to Logrus
-- [github.com/hellofresh/stats-go](https://github.com/hellofresh/stats-go) - collect and push metrics
+- [go.uber.org/zap](https://github.com/uber-go/zap) - alternative logging package
 - [github.com/opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - tracing library (e.g. for tracing requests, etc.)
   - [github.com/hellofresh/gcloud-opentracing](https://github.com/hellofresh/gcloud-opentracing) - GCloud StackDriver tracer for OpenTracing-Go
 
